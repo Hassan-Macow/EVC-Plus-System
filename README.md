@@ -1,5 +1,5 @@
 # EVC-Plus-System
-This electronic money system is a method of transferring and exchanging money that makes use of technology. 
+The electronic money system is a method of transferring and exchanging money that makes use of technology. 
 Without carrying currency around, this approach enables users to store and use money online.
 This system is used by people to handle their funds and make online purchases of goods and services. 
 Additionally, they use it to transfer funds between other bank accounts. Both storing cash and paying bills are possible with these accounts. 
